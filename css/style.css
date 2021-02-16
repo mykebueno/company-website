@@ -1,0 +1,35 @@
+/*------------------*/
+/*Conteudo do header*/
+/*------------------*/
+.conteudo-header{
+    background-image: url("../images/pexels-marc-mueller-380768.jpg");
+    height: 370px;
+    background-position: center;
+    background-size: cover;
+    padding: 0px;
+}
+
+/*------------------*/
+/*Conteudo do main  */
+/*------------------*/
+
+.texto-about-tit{
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+
+.texto-about-tit h1{
+    font-size: 1.6em;
+}
+
+.texto-about-esq p{
+    padding-left: 325px;
+}
+
+.texto-about-esq button{
+    margin-left: 325px;
+}
+
+.texto-about-dir p{
+    padding-right: 325px;
+}
