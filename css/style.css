@@ -13,6 +13,15 @@
 /*Conteudo do main  */
 /*------------------*/
 
+.navbar-brand{
+    font-size: 1.8em;
+    padding-left: 50px;
+}
+
+.nav-link{
+    font-size: 1.3em;
+}
+
 .texto-about-tit{
     padding-top: 40px;
     padding-bottom: 15px;
@@ -26,10 +35,14 @@
     padding-left: 325px;
 }
 
-.texto-about-esq button{
+.texto-about-esq .btn{
     margin-left: 325px;
 }
 
 .texto-about-dir p{
     padding-right: 325px;
+}
+
+.about-title h1{
+    font-size: 1.6em;
 }
